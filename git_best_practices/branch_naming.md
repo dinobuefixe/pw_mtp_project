@@ -16,7 +16,6 @@ Start the name with a word indicating its purpose. Some examples ahead.
 
 **Short but useful descriptions** are ideal, keeping the same rules as the branches names for reading more easily.
 
-## **Comandos e usos reais**
 
 
 
