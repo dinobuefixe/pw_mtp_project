@@ -55,3 +55,5 @@ Cons:
 - Requires an experienced team that can slice features appropriately for regular integration.
 - Relies on strong continuous integration and continuous delivery/deployment practices to maintain stability.
 
+## **Conclusion**
+Between these strategies, there isnt a worst or better one, only a strategy that works best for each team, depending on team size and communication. By following these strategies, teams can be more productive and organized.

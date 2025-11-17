@@ -13,9 +13,28 @@ Start the name with a word indicating its purpose. Some examples ahead.
  - **experiment/** for trying out new ideas
  - **docs/** for text documents
 
+An effective branch naming convention follows this basic structure:
+
+**type/short-context/concise-description**
+
+This allows any team member to know exactly what's happening in that branch before even opening it.
+
 
 **Short but useful descriptions** are ideal, keeping the same rules as the branches names for reading more easily.
 
+## **Sample Branch Names**
+Here are some samples of good branch names following the above conventions:
 
+**feature/T-456-user-authentication**
 
+**bugfix/T-789-fix-header-styling**
+
+**hotfix/T-321-security-patch**
+
+**release/v2.0.1**
+
+**docs/T-654-update-readme**
+
+## **Conclusion**
+Branch naming conventions in Git, while not enforced by the system itself, are very important to maintaining a clean and understandable codebase, especially when working in a team. By following these conventions, you can ensure that your branches are easily identifiable.
 
